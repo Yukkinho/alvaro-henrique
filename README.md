@@ -1,5 +1,5 @@
 # AOBA!
 
-##- 🌱 I’m a simple Student :)
+- 🌱 I’m a simple Student :)
   
 -->
